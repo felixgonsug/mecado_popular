@@ -1,2 +1,2 @@
 # mecado_popular
-Backend del sistema de gestion de compras del Mercdo Popular de Subsistencia (MPS).
+Backend del sistema de gestion de compras del Mercado Popular de Subsistencia (MPS).
